@@ -1,7 +1,7 @@
 def hello():
     print('hello user!!')
 
-def pack(a, b, c):
+def pack(a, b, c):  #not sure if i was suppose to add a specific arguments so i just copied the solution code for the pack()
     return [a, b, c]
 
 def eat_lunch(favorite_food):
